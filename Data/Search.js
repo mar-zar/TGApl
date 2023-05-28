@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A About TGA/Other defects associated with TGA.htm'],s:['0'],p:[['0',12],['months',12]]});
